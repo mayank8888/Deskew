@@ -1,4 +1,4 @@
 Deskew
 ======
 
-OCR Image Deskew using Visualizer
+OCR Image Deskew
